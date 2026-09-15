@@ -1,0 +1,28 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+
+# Flutter & Dart build artifacts
+.dart_tool/
+.packages
+build/
+.pub-cache/
+.pub/
+
+# Android build outputs
+android/app/debug/
+android/app/release/
